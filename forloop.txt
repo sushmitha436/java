@@ -1,0 +1,22 @@
+  
+
+  public class ForTest {
+      public static void main(String args[]) {
+          int x;
+          for(x=0;x<10;x=x+1)
+          System.out.println("this is x:" + x);
+      }
+  }
+
+
+    OUTPUT:
+   this is x:0
+   this is x:1
+   this is x:2
+   this is x:3
+   this is x:4
+   this is x:5
+   this is x:6
+   this is x:7
+   this is x:8
+   this is x:9
